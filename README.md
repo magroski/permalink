@@ -5,7 +5,7 @@
 [![CircleCI](https://circleci.com/gh/magroski/permalink.svg?style=shield)](https://circleci.com/gh/magroski/permalink)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/magroski/permalink/blob/master/LICENSE)
 
-This library provides a quick and simple way to encode/decode WebTokens.
+A library to create url friendly slugs
 
 ## Usage examples
 
